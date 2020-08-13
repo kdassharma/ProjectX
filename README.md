@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1Z7ikr31fQJdv9ZsLB1zGF5D4YzsYMbtn/view?usp=shari
 
 ```shell
 $ python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
-$ python python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
+$ python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
 ```
 
 ## License
